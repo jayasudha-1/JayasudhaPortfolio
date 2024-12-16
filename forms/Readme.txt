@@ -1,2 +1,1 @@
-Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/kelly-free-bootstrap-cv-resume-html-template/
+Welcome to my personal portfolio website! This project showcases my professional experience, technical skills, and projects in a visually appealing and responsive design. It serves as an interactive space to learn more about me and my work.
